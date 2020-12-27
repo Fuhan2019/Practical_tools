@@ -13,6 +13,5 @@
 1-【计算机二级考试动态】  
 运行后发送的邮件截图如下：  
 ![demo_1截图](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)
-![Image text]：当图片不存在时显示文字
 
 【其他工具待提交】  

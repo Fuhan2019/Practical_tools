@@ -12,6 +12,6 @@
 当前只有1个任务task_1，可添加多个任务，作为task_n：  
 1-【计算机二级考试动态】  
 运行后发送的邮件截图如下：  
-![demo_1截图](https://github.com/yguo18/CircleFollowButton/raw/master/Assets/Image/xiaoguotu.png)
+![demo_1截图](https://github.com/Fuhan2019/Practical_tools/raw/master/demo_1截图.png)
 
 【其他工具待提交】  
